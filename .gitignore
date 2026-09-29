@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Temporary / working files
+*.tmp
+~$*
+*.bak
+
+# Environment
+.env
+
+# Logs
+*.log
+reports/Project_Working_Document.pdf
